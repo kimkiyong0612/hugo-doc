@@ -1,12 +1,12 @@
 
-languageCode = "en-us"
+languageCode = "ja"
 title = "Hugo-Docs"
 theme="hello-friend-ng"
 pagenate = 10
 
 [params]
   # Subtitle for home
-  homeSubtitle = "markdown files manegement site"
+  homeSubtitle = "markdownファイルをただただ公開するサイト"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -15,7 +15,7 @@ pagenate = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "hugo-doc"
   keywords = "homepage, blog,Hugo-doc"
   images = [""]
 
