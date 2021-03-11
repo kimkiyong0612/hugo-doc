@@ -9,4 +9,7 @@ tags:
 ---
 
 # Hello World
+
 hello hugo
+
+{{< image src="/img/hello.png" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
