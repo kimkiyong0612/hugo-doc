@@ -1,4 +1,4 @@
-# hugo-doc
+# fastest CMS (HUGO + FORESTORY)
 
 ## create new post
 
